@@ -1,8 +1,4 @@
 /*
-     ____  _____ _____ _____ _____ _____
-    |    \|  _  |   __|     | __  |  _  |
-    |  |  |     |  |  |  |  | __ -|     |
-    |____/|__|__|_____|_____|_____|__|__|
 
     dagoba: a tiny in-memory graph database
 
@@ -34,8 +30,6 @@
     That's all.
 
 
-    copyright dann toliver, 2015
-    version 0.3.4
 */
 
 
